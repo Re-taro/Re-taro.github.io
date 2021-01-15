@@ -48,8 +48,8 @@ body {
   top: 1650px;
   left: 70px;
   padding: 60px 36px 60px 36px;
-  width: 667.5px;
-  height: 255px;
+  width: 35%;
+  height: 25.297619048%;
   background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
   border-radius: 10px;
   position: absolute;
@@ -74,8 +74,8 @@ body {
   top: 1650px;
   left: 807.5px;
   padding: 60px 36px 60px 36px;
-  width: 667.5px;
-  height: 255px;
+  width: 35%;
+  height: 25.297619048%;
   background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
   border-radius: 10px;
   position: absolute;
@@ -101,8 +101,8 @@ body {
   top: 1965px;
   left: 70px;
   padding: 60px 36px 60px 36px;
-  width: 667.5px;
-  height: 255px;
+  width: 35%;
+  height: 25.297619048%;
   background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
   border-radius: 10px;
   position: absolute;
@@ -128,8 +128,8 @@ body {
   top: 1965px;
   left: 807.5px;
   padding: 60px 36px 60px 36px;
-  width: 667.5px;
-  height: 255px;
+  width: 35%;
+  height: 25.297619048%;
   background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
   border-radius: 10px;
   position: absolute;
